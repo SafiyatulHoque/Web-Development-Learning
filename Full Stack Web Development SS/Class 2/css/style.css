@@ -1,0 +1,42 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	background-color: #EAF6F6;
+	color: #132743;
+
+}
+
+.hd1{
+	color: #16697a;
+	text-align: center;
+	margin: 30px auto 0 auto;
+}
+
+.propic{
+	width: 200px;
+	border-radius: 100%;
+}
+
+h3{
+	color: #16697a;
+}
+
+.icn{
+	width: 50px;
+}
+
+p{
+	text-align: center;
+	width: 80%;
+	margin: auto;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    }
+
+ .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }

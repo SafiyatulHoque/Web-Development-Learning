@@ -1,0 +1,125 @@
+body{
+	margin: 0;
+	font-family: 'Poppins', sans-serif;
+
+}
+.grad1{
+	
+	height: 800px;
+	width: 1600px;
+	background-image: linear-gradient(to right,#06D7DF, #806CEF, #F407FE);
+	position: relative;
+}
+
+.loginFrame{
+	height: 760px;
+	width: 500px;
+	background-color: #FFFFFF;
+	position: absolute;
+	top: 3%;
+	left:35%;
+	border-radius: 2%;
+	font-size: 15px;
+}
+
+.logText{
+	margin-top: 13%;
+	margin-left: 37%;
+	margin-bottom: 13%;
+	font-size: 44px;
+
+}
+
+.username{
+	margin-left: 13%;
+
+}
+input::placeholder{
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+}
+
+.fa{
+	color: #808080;
+	padding-left: 2px;
+}
+
+.bord {
+  border: 0;
+  padding-left: 10px;
+  padding-top: 17px;
+  padding-bottom: 8px;
+}
+hr{
+	margin-right: 13%;
+	/*border: 1px solid #808080;*/
+}
+
+.fp{
+	margin-left: 246px;
+	margin-top: 2px;
+}
+
+.loginBtn{
+	height: 50px;
+	width: 380px;
+	margin-left: 13%;	
+	margin-top: 35px;
+	background-image: linear-gradient(to left,#06D7DF, #806CEF, #F407FE);
+	border: none;
+	border-radius: 30px;
+	text-transform: uppercase;
+	color: white;
+	font-size: 17px;
+}
+
+.bottomp {
+	text-align: center;
+	padding-top: 30px;
+}
+.osup{
+	padding-top: 30px;
+	color: #556052;
+}
+
+.socials{
+	display: block;
+	text-align: center;
+	padding: 12px 0px 30px;
+}
+
+.socials li{
+	list-style: none;
+	display: inline-block;
+}
+
+.socials li a{
+	display: block;
+	width: 40px;
+	height: 40px;
+	line-height: 46px;
+	
+
+}
+.fback{
+	background: #1773EA; 
+	border-radius: 100%;
+}
+.tback{
+	background: #34B3F7;
+	border-radius: 100%;
+}
+.gback{
+	background: #D6493D;
+	border-radius: 100%;	
+}
+.socials .fa {
+    font-size: 19px;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.signup{
+	text-align: center;
+	padding-top: 15px;
+}
